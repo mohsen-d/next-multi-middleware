@@ -1,0 +1,34 @@
+{
+  "name": "next-multi-middleware",
+  "version": "1.0.0",
+  "description": "Allows having multiple middlewares in NextJS applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NextJS",
+    "middleware",
+    "react"
+  ],
+  "files": [
+    "index.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "Mohsen Dorparasti",
+  "homepage": "https://github.com/mohsen-d/next-multi-middleware",
+  "bugs": {
+    "url": "https://github.com/mohsen-d/next-multi-middleware/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsen-d/next-multi-middleware.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.2",
+    "path-to-regexp": "^6.2.1",
+    "typescript": "^5.2.2"
+  }
+}
